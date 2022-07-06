@@ -12,6 +12,6 @@ ___
 
 ## Support de cours
 
-* [Wiki](https://github.com/seeren-training/React/wiki)
+* [Wiki](https://github.com/seeren-training/Vue/wiki)
 
 ___
